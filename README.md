@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Makhan Singh</h1>
+<h1 align="center">Hi 👋, I'm Manmeet Singh</h1>
 <h3 align="center">Expert Frontend and WordPress Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makhansingh&label=Profile%20views&color=0e75b6&style=flat" alt="makhansingh" /> </p>
